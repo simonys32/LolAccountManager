@@ -18,5 +18,5 @@ All login data is saved in a folder in appdata, gets modified and resaved all at
 If you find any bugs or other issues please feel free to write me on twitter or git, same goes for feature ideas or contribution.
 
 ## Virus Scan
-False flag from defender or antivirus are known issues with PyInstaller compiler to exe file. ]read more here](https://coderslegacy.com/pyinstaller-exe-detected-as-virus-solutions/)
+False flag from defender or antivirus are known issues with PyInstaller compiler to exe file. [read more here](https://coderslegacy.com/pyinstaller-exe-detected-as-virus-solutions/)
 Its open source so if you dont trust the exe compile it yourself
