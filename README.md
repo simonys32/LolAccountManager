@@ -6,6 +6,8 @@ The use case behind this tool is just availability and overview when trying to l
 
 First project and first gui in python, dont judge too much
 
+![screenshot](img/screenshot.jpg)
+
 ## Setup
 Create a new file with your `api_key` from riot dev if you are trying to add/change stuff. Make sure to import it into `LeagueAccount.py` If done, just execute `AccountManager.py` and it should work
 
