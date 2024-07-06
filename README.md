@@ -4,6 +4,8 @@ Small tool designed to keep track of your userdata if you have a lot of league o
 
 The use case behind this tool is just availability and overview when trying to log into league. Sometimes you dont remember which account has which logins or which account is eligable to play duoq. Easy to chech, copy and login throuhg the saved data.
 
+First project and first gui in python, dont judge too much
+
 ## Setup
 Create a new file with your api_key from riot dev if you are trying to add/change stuff. If done, just execute AccountManager.py and it should work
 
