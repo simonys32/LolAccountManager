@@ -7,7 +7,7 @@ The use case behind this tool is just availability and overview when trying to l
 First project and first gui in python, dont judge too much
 
 ## Setup
-Create a new file with your api_key from riot dev if you are trying to add/change stuff. If done, just execute AccountManager.py and it should work
+Create a new file with your `api_key` from riot dev if you are trying to add/change stuff. Make sure to import it into `LeagueAccount.py` If done, just execute `AccountManager.py` and it should work
 
 ## Data
 All login data is saved in a folder in appdata, gets modified and resaved all at the same location. Nothing gets saved online or sent anywhere, just saved locally in a json file
