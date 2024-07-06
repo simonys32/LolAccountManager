@@ -2,7 +2,7 @@
 
 Small tool designed to keep track of your userdata if you have a lot of league of legends accounts. Simply put in your logindata and the tool will automatically track your elo and namechanges for all accounts.
 
-The use case behind this tool is just availability and overview when trying to log into league. Sometimes you dont remember which account has which logins or which account is eligable to play duoq. Easy to chech, copy and login throuhg the saved data.
+The use case behind this tool is just availability and overview when trying to log into league. Sometimes you dont remember which account has which logins or which account is eligable to play duoq. Easy to check, copy and login through the saved data.
 
 First project and first gui in python, dont judge too much
 
