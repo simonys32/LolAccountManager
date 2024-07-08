@@ -92,7 +92,7 @@ class MyFrame(customtkinter.CTkScrollableFrame):
 
             elocheck = account.elo.split()
 
-            imgPath = 'img/'
+            imgPath = '../img/'
             match elocheck[0]:
                 case 'MASTER':
                     imgPath+='master'
@@ -149,8 +149,8 @@ class App(customtkinter.CTk):
 
         self.geometry("1650x800")
         self.title("League Account Manager")
-        self.wm_iconbitmap(resource_path('img/dab.ico'))
-        pingu_img = customtkinter.CTkImage(Image.open(resource_path('img/dab.png')), size=(100, 100))
+        self.wm_iconbitmap(resource_path('../img/dab.ico'))
+        pingu_img = customtkinter.CTkImage(Image.open(resource_path('../img/dab.png')), size=(100, 100))
 
         self.pingu = customtkinter.CTkLabel(self, image=pingu_img , text="")
         self.pingu.place(relx=offsetButtonEntry+0.018, rely=0.15, anchor=customtkinter.NW)
